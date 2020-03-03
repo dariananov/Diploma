@@ -1,0 +1,5 @@
+/Users/dari/Projects/AsyncModels/StableDiff/bin/Debug/StableDiff.exe
+/Users/dari/Projects/AsyncModels/StableDiff/bin/Debug/StableDiff.pdb
+/Users/dari/Projects/AsyncModels/StableDiff/obj/Debug/StableDiff.csprojAssemblyReference.cache
+/Users/dari/Projects/AsyncModels/StableDiff/obj/Debug/StableDiff.exe
+/Users/dari/Projects/AsyncModels/StableDiff/obj/Debug/StableDiff.pdb

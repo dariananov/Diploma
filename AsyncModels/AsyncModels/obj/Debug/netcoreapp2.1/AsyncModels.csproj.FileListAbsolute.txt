@@ -1,0 +1,11 @@
+/Users/dari/Projects/AsyncModels/AsyncModels/bin/Debug/netcoreapp2.1/AsyncModels.deps.json
+/Users/dari/Projects/AsyncModels/AsyncModels/bin/Debug/netcoreapp2.1/AsyncModels.runtimeconfig.json
+/Users/dari/Projects/AsyncModels/AsyncModels/bin/Debug/netcoreapp2.1/AsyncModels.runtimeconfig.dev.json
+/Users/dari/Projects/AsyncModels/AsyncModels/bin/Debug/netcoreapp2.1/AsyncModels.dll
+/Users/dari/Projects/AsyncModels/AsyncModels/bin/Debug/netcoreapp2.1/AsyncModels.pdb
+/Users/dari/Projects/AsyncModels/AsyncModels/obj/Debug/netcoreapp2.1/AsyncModels.csproj.CoreCompileInputs.cache
+/Users/dari/Projects/AsyncModels/AsyncModels/obj/Debug/netcoreapp2.1/AsyncModels.AssemblyInfoInputs.cache
+/Users/dari/Projects/AsyncModels/AsyncModels/obj/Debug/netcoreapp2.1/AsyncModels.AssemblyInfo.cs
+/Users/dari/Projects/AsyncModels/AsyncModels/obj/Debug/netcoreapp2.1/AsyncModels.dll
+/Users/dari/Projects/AsyncModels/AsyncModels/obj/Debug/netcoreapp2.1/AsyncModels.pdb
+/Users/dari/Projects/AsyncModels/AsyncModels/obj/Debug/netcoreapp2.1/AsyncModels.csprojAssemblyReference.cache

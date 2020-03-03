@@ -1,0 +1,5 @@
+/Users/dari/Projects/FindingIntsability/Core/obj/Debug/InstabilityFinder.csprojAssemblyReference.cache
+/Users/dari/Projects/FindingIntsability/Core/bin/Debug/Core.exe
+/Users/dari/Projects/FindingIntsability/Core/bin/Debug/Core.pdb
+/Users/dari/Projects/FindingIntsability/Core/obj/Debug/Core.exe
+/Users/dari/Projects/FindingIntsability/Core/obj/Debug/Core.pdb
